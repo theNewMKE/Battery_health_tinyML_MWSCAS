@@ -7,4 +7,4 @@ Conferece paper:
 https://ieeexplore.ieee.org/document/10658694. 
 
 Poster: 
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://rtc-conference.com/2024/wp-content/uploads/Poster_Weng_Battery_TinyML_V1-Oliver-Weng.pdf.
+https://rtc-conference.com/2024/wp-content/uploads/Poster_Weng_Battery_TinyML_V1-Oliver-Weng.pdf.
