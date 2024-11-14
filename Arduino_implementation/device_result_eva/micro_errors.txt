@@ -1,0 +1,7 @@
+CNN:
+Errors-> mae, mse, rmse, r2: 6.173 62.85 7.928 0.997
+Errors-> mae, mse, rmse, r2: 0.363 0.43 0.656 0.851
+
+TCN:
+Errors-> mae, mse, rmse, r2: 4.213 28.531 5.341 0.999
+Errors-> mae, mse, rmse, r2: 0.256 0.283 0.532 0.902

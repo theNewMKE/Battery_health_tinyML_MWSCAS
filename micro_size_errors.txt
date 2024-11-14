@@ -1,0 +1,36 @@
+May 14, 2024.
+
+Correct mistakes:
+1. Communication between pc and board.
+2. Errors in buidling TCN models.
+3. X_test_reshaped should be different for each model input.
+
+Models					TF model size(KB) 	TFLITE model size(KB)	Reduction
+1D CNN (RUL)			656					26.91					24X
+1D CNN (Cell Temp.)		508					13.07					39X
+TCN (RUL)				1208				40.59					30X
+TCN (Cell Temp.)		1239				57.84					21X
+
+
+CNN RUL
+Error for tf_model, 		 mae: 5.9114, mse: 58.0502, rmse: 7.6191, r2: 0.9977
+Error for tflite_model, 	 mae: 6.1586, mse: 62.4509, rmse: 7.9026, r2: 0.9975
+Error for tfliteMicro_model, mae: 6.173,  mse: 62.85, 	rmse: 7.928,  r2: 0.997
+
+
+CNN Temp.
+Error for tf_model, 		 mae: 0.3492, mse: 0.3747, rmse: 0.6122, r2: 0.8702
+Error for tflite_model, 	 mae: 0.3499, mse: 0.3774, rmse: 0.6143, r2: 0.8693
+Error for tfliteMicro_model, mae: 0.363,  mse: 0.43,   rmse: 0.656,  r2: 0.851
+
+
+TCN RUL
+Error for tf_model, 		 mae: 0.6417, mse: 0.6423, rmse: 0.8015, r2: 1.0000
+Error for tflite_model, 	 mae: 1.8781, mse: 5.4064, rmse: 2.3252, r2: 0.9998
+Error for tfliteMicro_model, mae: 4.213,  mse, 28.531, rmse:5.341,   r2: 0.999
+
+
+TCN Temp.
+Error for tf_model, 		 mae: 0.2394, mse: 0.2597, rmse: 0.5096, r2: 0.9100
+Error for tflite_model, 	 mae: 0.2517, mse: 0.2583, rmse: 0.5082, r2: 0.9105
+Error for tfliteMicro_model, mae: 0.256,  mse: 0.283,  rmse: 0.532,  r2: 0.902

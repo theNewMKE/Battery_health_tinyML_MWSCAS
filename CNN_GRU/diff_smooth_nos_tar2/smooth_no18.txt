@@ -1,0 +1,7 @@
+Test errors->
+[mae1, mae2], [mse1, mse2], [rmse1, rmse2], [r2_1, r2_2], [mape1, mape2]->
+Error means:
+[0.43 0.74 0.7  0.74 0.02]
+Error stds:
+[0.42 1.08 0.5  0.37 0.02]
+{'filters1': 64, 'kernel_size1': 4, 'units': 16, 'loss': 'Huber', 'lr': 0.01, 'delta': 0.1}

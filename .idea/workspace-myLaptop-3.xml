@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da70cade-84a4-44e3-a3ac-328505226547" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2YMug13VuxfNHKoWJXA0RTedoy9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.model_quantization.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reload_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Oliver/OneDrive - Marquette University/Documents/Bat_SOC_tinyML/bat_tinyML_pycharm/Cris_arduino_implementation/pickled_data_rs0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;rsyncConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\Cris_arduino_implementation\pickled_data_rs0" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\models" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\pickled_data_rs0" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\models_215\TCN" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\models_215" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\data_from_arduino\TCN_and_CNN" />
+      <recent name="C:\Users\Oliver\OneDrive - Marquette University\Documents\Bat_SOC_tinyML\bat_tinyML_pycharm\pickled_data\MLP\tar1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.serial_com_test_v2">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bat_tinyML_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bat_tinyML_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="model_quantization" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bat_tinyML_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/model_quantization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reload_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bat_tinyML_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reload_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="serial_com_test_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bat_tinyML_pycharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cris_arduino_implementation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cris_arduino_implementation/serial_com_test_v2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.serial_com_test_v2" />
+        <item itemvalue="Python.reload_model" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.model_quantization" />
+        <item itemvalue="Python.model_analysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da70cade-84a4-44e3-a3ac-328505226547" name="Changes" comment="" />
+      <created>1700347876844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700347876844</updated>
+      <workItem from="1700347877926" duration="11452000" />
+      <workItem from="1700416438579" duration="27536000" />
+      <workItem from="1700491448367" duration="20817000" />
+      <workItem from="1700610393842" duration="7885000" />
+      <workItem from="1700618389984" duration="8168000" />
+      <workItem from="1700699796920" duration="8534000" />
+      <workItem from="1700751591250" duration="51000" />
+      <workItem from="1700752489343" duration="167000" />
+      <workItem from="1700754973946" duration="3992000" />
+      <workItem from="1700761682640" duration="39000" />
+      <workItem from="1700761728598" duration="16515000" />
+      <workItem from="1700848773466" duration="31934000" />
+      <workItem from="1700927491958" duration="12382000" />
+      <workItem from="1700967017763" duration="886000" />
+      <workItem from="1701061195757" duration="2746000" />
+      <workItem from="1701114542152" duration="12944000" />
+      <workItem from="1701187477904" duration="9392000" />
+      <workItem from="1701273575242" duration="2560000" />
+      <workItem from="1701541656255" duration="13853000" />
+      <workItem from="1701634552826" duration="17397000" />
+      <workItem from="1701706375563" duration="16941000" />
+      <workItem from="1701835423988" duration="3283000" />
+      <workItem from="1701880132715" duration="3643000" />
+      <workItem from="1702592156736" duration="6843000" />
+      <workItem from="1702655457215" duration="34152000" />
+      <workItem from="1702737257051" duration="17814000" />
+      <workItem from="1702871827045" duration="33000" />
+      <workItem from="1702872033119" duration="691000" />
+      <workItem from="1709355844976" duration="400000" />
+      <workItem from="1710473003979" duration="3842000" />
+      <workItem from="1710620960344" duration="5666000" />
+      <workItem from="1710716793318" duration="3086000" />
+      <workItem from="1710739564987" duration="191000" />
+      <workItem from="1710739764179" duration="2066000" />
+      <workItem from="1710773691444" duration="16702000" />
+      <workItem from="1710795579588" duration="7632000" />
+      <workItem from="1710866753337" duration="2921000" />
+      <workItem from="1710906714426" duration="5307000" />
+      <workItem from="1710953022554" duration="7109000" />
+      <workItem from="1710987401482" duration="10826000" />
+      <workItem from="1711148567265" duration="4208000" />
+      <workItem from="1711166082717" duration="5892000" />
+      <workItem from="1711217014891" duration="1647000" />
+      <workItem from="1711238698639" duration="736000" />
+      <workItem from="1711321308803" duration="2861000" />
+      <workItem from="1711325565339" duration="16977000" />
+      <workItem from="1711383876076" duration="10835000" />
+      <workItem from="1711413023450" duration="7006000" />
+      <workItem from="1711430765358" duration="1782000" />
+      <workItem from="1711470148236" duration="730000" />
+      <workItem from="1711476026053" duration="757000" />
+      <workItem from="1711507304497" duration="467000" />
+      <workItem from="1711508800378" duration="34000" />
+      <workItem from="1711563523377" duration="1996000" />
+      <workItem from="1711600941235" duration="288000" />
+      <workItem from="1711601407865" duration="617000" />
+      <workItem from="1711647485497" duration="2333000" />
+      <workItem from="1711896541428" duration="18525000" />
+      <workItem from="1712027990579" duration="946000" />
+      <workItem from="1712029184682" duration="107000" />
+      <workItem from="1712029304013" duration="27000" />
+      <workItem from="1712029489059" duration="43000" />
+      <workItem from="1712029615970" duration="1953000" />
+      <workItem from="1712082317374" duration="450000" />
+      <workItem from="1712108567604" duration="6659000" />
+      <workItem from="1712117250914" duration="2314000" />
+      <workItem from="1712122413496" duration="405000" />
+      <workItem from="1712122828896" duration="263000" />
+      <workItem from="1712123155835" duration="940000" />
+      <workItem from="1712124127430" duration="266000" />
+      <workItem from="1712124449961" duration="947000" />
+      <workItem from="1712125902585" duration="951000" />
+      <workItem from="1712151103045" duration="6029000" />
+      <workItem from="1712162632890" duration="12825000" />
+      <workItem from="1712177180551" duration="4334000" />
+      <workItem from="1712186457514" duration="9517000" />
+      <workItem from="1712200179125" duration="2520000" />
+      <workItem from="1712243825777" duration="16365000" />
+      <workItem from="1712270558693" duration="2740000" />
+      <workItem from="1712274039790" duration="26000" />
+      <workItem from="1712274125058" duration="11000" />
+      <workItem from="1712274215969" duration="50000" />
+      <workItem from="1712274377423" duration="18722000" />
+      <workItem from="1712719085127" duration="212000" />
+      <workItem from="1712720139560" duration="3432000" />
+      <workItem from="1712724099021" duration="2653000" />
+      <workItem from="1712800610477" duration="1062000" />
+      <workItem from="1712801685253" duration="1977000" />
+      <workItem from="1712803682477" duration="109000" />
+      <workItem from="1712803813190" duration="388000" />
+      <workItem from="1712804211880" duration="153000" />
+      <workItem from="1712804427270" duration="782000" />
+      <workItem from="1712805609850" duration="192000" />
+      <workItem from="1712805808694" duration="253000" />
+      <workItem from="1712806069291" duration="6876000" />
+      <workItem from="1712813130756" duration="379000" />
+      <workItem from="1712813518808" duration="1512000" />
+      <workItem from="1712815065251" duration="4450000" />
+      <workItem from="1712819636222" duration="112000" />
+      <workItem from="1713153274163" duration="2299000" />
+      <workItem from="1713214820523" duration="5216000" />
+      <workItem from="1713221840080" duration="478000" />
+      <workItem from="1713274104456" duration="3536000" />
+      <workItem from="1713303858366" duration="3760000" />
+      <workItem from="1713383232455" duration="2646000" />
+      <workItem from="1713388250578" duration="10744000" />
+      <workItem from="1713464699724" duration="1204000" />
+      <workItem from="1713717412727" duration="9737000" />
+      <workItem from="1713732418231" duration="4438000" />
+      <workItem from="1713740533948" duration="3833000" />
+      <workItem from="1713820894265" duration="1684000" />
+      <workItem from="1713907812709" duration="3509000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serial_com_test.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/bat_tinyML_action_items/serial_com_test.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="185" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/serial_com_test.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/true_pred_plots_tar1.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/true_pred_plots_tar1.py</url>
+          <line>93</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/reload_model.py</url>
+          <line>106</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/true_pred_plots_tar2.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_analysis.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_evaluation.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_evaluation.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cris_arduino_implementation/serial_com_test_v2.py</url>
+          <line>202</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_analysis.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_analysis.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_analysis.py</url>
+          <line>72</line>
+          <option name="timeStamp" value="312" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/model_evaluation.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Cris_arduino_implementation/serial_com_test_v2.py</url>
+          <line>29</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/build_train_models_py$serial_com_test__2_.coverage" NAME="serial_com_test (2) Coverage Results" MODIFIED="1712031569863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bat_tinyML_action_items" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$model_quantization.coverage" NAME="model_quantization Coverage Results" MODIFIED="1713219614100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$read_csv_files.coverage" NAME="read_csv_files Coverage Results" MODIFIED="1712303597078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_from_arduino/TCN" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$model_analysis.coverage" NAME="model_analysis Coverage Results" MODIFIED="1713723224873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$true_pred_plots_tar2.coverage" NAME="true_pred_plots_tar2 Coverage Results" MODIFIED="1712303706204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$serial_com_test_v2.coverage" NAME="serial_com_test_v2 Coverage Results" MODIFIED="1713909703186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cris_arduino_implementation" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$load_model.coverage" NAME="load_model Coverage Results" MODIFIED="1712296973004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$build_train_models.coverage" NAME="build_train_models Coverage Results" MODIFIED="1701567424732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$true_pred_plots__1_.coverage" NAME="true_pred_plots (1) Coverage Results" MODIFIED="1710909747006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$load_model.coverage" NAME="load_model Coverage Results" MODIFIED="1712263981432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$true_pred_plots_tar2.coverage" NAME="true_pred_plots_tar2 Coverage Results" MODIFIED="1711161768350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$true_pred_plots_tar1.coverage" NAME="true_pred_plots_tar1 Coverage Results" MODIFIED="1713391717084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$read_csv_files.coverage" NAME="read_csv_files Coverage Results" MODIFIED="1713394128191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_from_arduino/TCN_and_CNN" />
+    <SUITE FILE_PATH="coverage/serial_com_test_py$serial_com_test__1_.coverage" NAME="serial_com_test (1) Coverage Results" MODIFIED="1711912066558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$fromnumeric.coverage" NAME="fromnumeric Coverage Results" MODIFIED="1711339748531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/bat_jour_tf/Lib/site-packages/numpy/core" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$load_model.coverage" NAME="load_model Coverage Results" MODIFIED="1711428420496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$main.coverage" NAME="main Coverage Results" MODIFIED="1713218190420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$true_pred_plots_tar1.coverage" NAME="true_pred_plots_tar1 Coverage Results" MODIFIED="1712290704379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$build_train_models.coverage" NAME="build_train_models Coverage Results" MODIFIED="1712175140184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$true_pred_plots_tar1.coverage" NAME="true_pred_plots_tar1 Coverage Results" MODIFIED="1712272957069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$main.coverage" NAME="main Coverage Results" MODIFIED="1711425053788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$model_quantization__1_.coverage" NAME="model_quantization (1) Coverage Results" MODIFIED="1712263730621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$true_pred_plots_tar1__1_.coverage" NAME="true_pred_plots_tar1 (1) Coverage Results" MODIFIED="1711161760784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_py$serial_com_test.coverage" NAME="serial_com_test Coverage Results" MODIFIED="1711508822458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/to_Cris" />
+    <SUITE FILE_PATH="coverage/serial_com_test_py$save_model.coverage" NAME="save_model Coverage Results" MODIFIED="1711930048090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$model_quantization.coverage" NAME="model_quantization Coverage Results" MODIFIED="1713740083478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$load_file.coverage" NAME="load_file Coverage Results" MODIFIED="1700348645380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/read_csv_files_py$read_csv_files__1_.coverage" NAME="read_csv_files (1) Coverage Results" MODIFIED="1712282418987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data_from_arduino/TCN" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$main.coverage" NAME="main Coverage Results" MODIFIED="1713742554208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$serial_com_test.coverage" NAME="serial_com_test Coverage Results" MODIFIED="1712264728190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_py$main.coverage" NAME="main Coverage Results" MODIFIED="1712028629282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$load_models_for_plot.coverage" NAME="load_models_for_plot Coverage Results" MODIFIED="1710735244563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$main.coverage" NAME="main Coverage Results" MODIFIED="1712263169369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bat_tinyML_pycharm$params_tuning.coverage" NAME="params_tuning Coverage Results" MODIFIED="1701706589545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$true_pred_plots_tar2.coverage" NAME="true_pred_plots_tar2 Coverage Results" MODIFIED="1712273059538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/build_train_models_py$read_csv_files.coverage" NAME="read_csv_files Coverage Results" MODIFIED="1712273405898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_v2_py$reload_model.coverage" NAME="reload_model Coverage Results" MODIFIED="1713822518843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/serial_com_test_py$load_model.coverage" NAME="load_model Coverage Results" MODIFIED="1711930069729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

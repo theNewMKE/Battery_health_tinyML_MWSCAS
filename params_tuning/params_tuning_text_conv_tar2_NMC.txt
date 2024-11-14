@@ -1,0 +1,775 @@
+The 1 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8090601113898976, mse_test: 0.6545782638422335, mae_test: 0.5273638440900604, r2_test: 0.8275870214424059, MAPE_test: 0.02913577909055335
+val_loss mean:0.12488798313398859
+val_loss std:0.1902744423592314
+
+The 2 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6275296691074135, mse_test: 0.3937934856100599, mae_test: 0.35335151489101846, r2_test: 0.8962765622676228, MAPE_test: 0.019763072515500798
+val_loss mean:0.05915336683392525
+val_loss std:0.0316565205040329
+
+The 3 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 3, lr: 0.001
+rmse_test: 0.7151792781464266, mse_test: 0.5114813998900438, mae_test: 0.45690581874425, r2_test: 0.8652780935403853, MAPE_test: 0.02487686409363833
+val_loss mean:0.10655135645398071
+val_loss std:0.1330618061477212
+
+The 4 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7380335663164053, mse_test: 0.5446935450097118, mae_test: 0.42200260829113206, r2_test: 0.8565301634903445, MAPE_test: 0.023102713257266733
+val_loss mean:0.07055641864152516
+val_loss std:0.02846201987377283
+
+The 5 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8068940443462368, mse_test: 0.6510779988014267, mae_test: 0.5254451741116214, r2_test: 0.8285089755535677, MAPE_test: 0.02871055307253619
+val_loss mean:0.13349374723539018
+val_loss std:0.19070775007387503
+
+The 6 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6791147503767325, mse_test: 0.4611968441792518, mae_test: 0.38759117620360906, r2_test: 0.8785228199611095, MAPE_test: 0.021107654145667332
+val_loss mean:0.06511738994403889
+val_loss std:0.0336202822316869
+
+The 7 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7301537164036419, mse_test: 0.5331244495780499, mae_test: 0.47827590948231585, r2_test: 0.8595774113333781, MAPE_test: 0.026146275000969468
+val_loss mean:0.12462136127165895
+val_loss std:0.1618090957699314
+
+The 8 experiment
+filters: 8, kernel_size1: 2, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6986927128323736, mse_test: 0.4881715069650617, mae_test: 0.4046385934560019, r2_test: 0.8714178147793163, MAPE_test: 0.022100798460340146
+val_loss mean:0.06647624724677631
+val_loss std:0.03662830293842952
+
+The 9 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 2, lr: 0.001
+rmse_test: 0.818326681728222, mse_test: 0.6696585580283227, mae_test: 0.567010153365907, r2_test: 0.8236149395970864, MAPE_test: 0.031123453575018847
+val_loss mean:0.15068765310570598
+val_loss std:0.2122742014042123
+
+The 10 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6804934653256524, mse_test: 0.46307135635091484, mae_test: 0.3993138001034166, r2_test: 0.8780290818632969, MAPE_test: 0.02177666700496046
+val_loss mean:0.07959699491038918
+val_loss std:0.03605263854902279
+
+The 11 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 3, lr: 0.001
+rmse_test: 0.9169799161220801, mse_test: 0.8408521665712569, mae_test: 0.6123209261268733, r2_test: 0.7785233110030395, MAPE_test: 0.033029396422458016
+val_loss mean:0.12188593590898174
+val_loss std:0.1610682584104528
+
+The 12 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7322642027581575, mse_test: 0.53621086264104, mae_test: 0.43519766646714997, r2_test: 0.8587644639768226, MAPE_test: 0.023822701325356275
+val_loss mean:0.0799074262894433
+val_loss std:0.04011048266406141
+
+The 13 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 4, lr: 0.001
+rmse_test: 0.85168724080719, mse_test: 0.7253711561537645, mae_test: 0.541807483829063, r2_test: 0.8089404911520572, MAPE_test: 0.02913208128523409
+val_loss mean:0.12511856646410058
+val_loss std:0.16341545330312118
+
+The 14 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 4, lr: 0.01
+rmse_test: 0.7623397286526233, mse_test: 0.5811618618821555, mae_test: 0.43536170928279216, r2_test: 0.8469245724063185, MAPE_test: 0.023892682939674968
+val_loss mean:0.07442445135010141
+val_loss std:0.03380400105431451
+
+The 15 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 5, lr: 0.001
+rmse_test: 0.8219012547729856, mse_test: 0.6755216725974081, mae_test: 0.538276912884168, r2_test: 0.8220706215188374, MAPE_test: 0.02988344302624908
+val_loss mean:0.12369821359004293
+val_loss std:0.14891562282204435
+
+The 16 experiment
+filters: 8, kernel_size1: 3, kernel_size2: 5, lr: 0.01
+rmse_test: 0.7827392413355843, mse_test: 0.612680719926606, mae_test: 0.4864386789819045, r2_test: 0.8386226465765793, MAPE_test: 0.026516389236327563
+val_loss mean:0.09419743005524982
+val_loss std:0.038413083434988976
+
+The 17 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 2, lr: 0.001
+rmse_test: 1.0159908996968605, mse_test: 1.0322375082668362, mae_test: 0.6968140920674781, r2_test: 0.7281132704674578, MAPE_test: 0.03789197084832625
+val_loss mean:0.13887234003498003
+val_loss std:0.17608559635371063
+
+The 18 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6890184527087975, mse_test: 0.47474642817322543, mae_test: 0.4018281145242044, r2_test: 0.8749539203143281, MAPE_test: 0.02201203752882797
+val_loss mean:0.07286621553116832
+val_loss std:0.043181402434477704
+
+The 19 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8245482660551274, mse_test: 0.6798798430545172, mae_test: 0.5333351412615541, r2_test: 0.8209226989691926, MAPE_test: 0.028611459897586823
+val_loss mean:0.11903217312480723
+val_loss std:0.16295274370120885
+
+The 20 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7898564246248406, mse_test: 0.6238731715211365, mae_test: 0.4855319659153485, r2_test: 0.8356746050307943, MAPE_test: 0.02654534235920644
+val_loss mean:0.09038719907402992
+val_loss std:0.041696567942320385
+
+The 21 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8703272295214121, mse_test: 0.7574694864464168, mae_test: 0.5722510281486446, r2_test: 0.8004859349313889, MAPE_test: 0.031484837592836254
+val_loss mean:0.1264864079534046
+val_loss std:0.15129073161472167
+
+The 22 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 4, lr: 0.01
+rmse_test: 0.9346677611582316, mse_test: 0.873603823748541, mae_test: 0.5717263184113641, r2_test: 0.7698966714114845, MAPE_test: 0.031092874046755363
+val_loss mean:0.09506679533256425
+val_loss std:0.055496160288301136
+
+The 23 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 5, lr: 0.001
+rmse_test: 0.884210610466171, mse_test: 0.7818284036609588, mae_test: 0.628680266157732, r2_test: 0.7940699054000304, MAPE_test: 0.03478182102274454
+val_loss mean:0.14886696696281432
+val_loss std:0.1862549448993972
+
+The 24 experiment
+filters: 8, kernel_size1: 4, kernel_size2: 5, lr: 0.01
+rmse_test: 0.7774622040383242, mse_test: 0.6044474787081289, mae_test: 0.4551532271870965, r2_test: 0.8407912453829749, MAPE_test: 0.025264910995563206
+val_loss mean:0.09294001126418942
+val_loss std:0.03789426678399167
+
+The 25 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8145383764971468, mse_test: 0.6634727667866076, mae_test: 0.5166521105855654, r2_test: 0.8252442492635264, MAPE_test: 0.027973353413162625
+val_loss mean:0.11911229177642224
+val_loss std:0.14882523040642412
+
+The 26 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 2, lr: 0.01
+rmse_test: 0.7647587908476922, mse_test: 0.5848560081788242, mae_test: 0.4511583787440441, r2_test: 0.8459515508420252, MAPE_test: 0.02477224385062362
+val_loss mean:0.0845267234577073
+val_loss std:0.03577586013351865
+
+The 27 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 3, lr: 0.001
+rmse_test: 0.9029862982339247, mse_test: 0.8153842547982065, mae_test: 0.5862607866056531, r2_test: 0.7852314447266671, MAPE_test: 0.0321889269153832
+val_loss mean:0.12854493348324886
+val_loss std:0.1487432764118596
+
+The 28 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 3, lr: 0.01
+rmse_test: 0.9361044884770988, mse_test: 0.8762916133469709, mae_test: 0.6346775538104965, r2_test: 0.7691887196874518, MAPE_test: 0.03543571218200379
+val_loss mean:0.10465241558849811
+val_loss std:0.029555678250014636
+
+The 29 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 4, lr: 0.001
+rmse_test: 1.1225223891003673, mse_test: 1.2600565140315962, mae_test: 0.82856358210679, r2_test: 0.6681067662407928, MAPE_test: 0.04595675954608199
+val_loss mean:0.1459066321008972
+val_loss std:0.18323213552588935
+
+The 30 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 4, lr: 0.01
+rmse_test: 1.964013489522693, mse_test: 3.857348987027106, mae_test: 1.3736682289552444, r2_test: -0.016008420881133745, MAPE_test: 0.07353303237147615
+val_loss mean:0.14542481005191804
+val_loss std:0.04050223821366562
+
+The 31 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 5, lr: 0.001
+rmse_test: 1.058228752149809, mse_test: 1.1198480918765419, mae_test: 0.7447362521234933, r2_test: 0.7050370357256345, MAPE_test: 0.04042965135683353
+val_loss mean:0.16526534862634612
+val_loss std:0.20577273442302213
+
+The 32 experiment
+filters: 8, kernel_size1: 5, kernel_size2: 5, lr: 0.01
+rmse_test: 0.8676067899809051, mse_test: 0.7527415420209704, mae_test: 0.5229017964741642, r2_test: 0.801731254285657, MAPE_test: 0.028064824524156547
+val_loss mean:0.11573769710958004
+val_loss std:0.1732838984394385
+
+The 33 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8802762130808165, mse_test: 0.7748862113159031, mae_test: 0.570281976995517, r2_test: 0.7958984477242212, MAPE_test: 0.031106181220957884
+val_loss mean:0.14035211727023125
+val_loss std:0.203479663980175
+
+The 34 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 2, lr: 0.01
+rmse_test: 0.7490436758026342, mse_test: 0.5610664282599218, mae_test: 0.4425010234306375, r2_test: 0.8522176194834985, MAPE_test: 0.024218033176247707
+val_loss mean:0.0972214825451374
+val_loss std:0.13917321292828727
+
+The 35 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 3, lr: 0.001
+rmse_test: 1.029221777088185, mse_test: 1.0592974664325616, mae_test: 0.736436759110407, r2_test: 0.720985798865191, MAPE_test: 0.04058178302908399
+val_loss mean:0.15980121004395187
+val_loss std:0.20315161300596526
+
+The 36 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6142903042453081, mse_test: 0.3773525778897932, mae_test: 0.37401388139091113, r2_test: 0.900607023614755, MAPE_test: 0.02051179658512892
+val_loss mean:0.06197259481996298
+val_loss std:0.031048750710725867
+
+The 37 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8423633734083511, mse_test: 0.7095760528598972, mae_test: 0.5938478840660603, r2_test: 0.8131008505100589, MAPE_test: 0.03225849426754104
+val_loss mean:0.13696753189322494
+val_loss std:0.18437553270960022
+
+The 38 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6473095135431715, mse_test: 0.4190096063234972, mae_test: 0.36929174284796906, r2_test: 0.8896347491796779, MAPE_test: 0.020334664699907006
+val_loss mean:0.06601911369297239
+val_loss std:0.035940917186767916
+
+The 39 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 5, lr: 0.001
+rmse_test: 0.797389026922615, mse_test: 0.6358292602565949, mae_test: 0.5331674356216873, r2_test: 0.8325254248874155, MAPE_test: 0.029069344154076762
+val_loss mean:0.12472144341362375
+val_loss std:0.177501912402093
+
+The 40 experiment
+filters: 16, kernel_size1: 2, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6692242078708549, mse_test: 0.44786104040037317, mae_test: 0.376268285579129, r2_test: 0.882035410858155, MAPE_test: 0.020677498472421143
+val_loss mean:0.0664608171209693
+val_loss std:0.033910569333774
+
+The 41 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8201230017030038, mse_test: 0.6726017379223452, mae_test: 0.5147732692049146, r2_test: 0.8228397192147587, MAPE_test: 0.028155962597890855
+val_loss mean:0.12198353995536936
+val_loss std:0.18073260921730105
+
+The 42 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6927330849830186, mse_test: 0.47987912703008995, mae_test: 0.40504415031836016, r2_test: 0.8736019904583675, MAPE_test: 0.022119001516746475
+val_loss mean:0.07542935318567535
+val_loss std:0.03707480821107088
+
+The 43 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 3, lr: 0.001
+rmse_test: 0.7374643469138326, mse_test: 0.5438536629690456, mae_test: 0.48364427829073076, r2_test: 0.8567513846525296, MAPE_test: 0.026659439635545807
+val_loss mean:0.12113164141774177
+val_loss std:0.17032014318849586
+
+The 44 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6758303205207028, mse_test: 0.45674662213511585, mae_test: 0.4016032963091511, r2_test: 0.8796949884858759, MAPE_test: 0.021653090954532238
+val_loss mean:0.07159828146298726
+val_loss std:0.0363438780011769
+
+The 45 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8819104303903843, mse_test: 0.7777660072313528, mae_test: 0.6188672552157505, r2_test: 0.795139922397538, MAPE_test: 0.03420338951970449
+val_loss mean:0.1368227199367855
+val_loss std:0.17715131949414648
+
+The 46 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 4, lr: 0.01
+rmse_test: 0.8366261268316926, mse_test: 0.6999432760973993, mae_test: 0.4478978345438813, r2_test: 0.8156380807010738, MAPE_test: 0.024651486476017885
+val_loss mean:0.070398218780756
+val_loss std:0.034540288543240635
+
+The 47 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7295025704214488, mse_test: 0.532174000251501, mae_test: 0.4715613978449287, r2_test: 0.8598277554227104, MAPE_test: 0.02587614862767947
+val_loss mean:0.11815149600689227
+val_loss std:0.1671405798358619
+
+The 48 experiment
+filters: 16, kernel_size1: 3, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6983508774267049, mse_test: 0.4876939480026486, mae_test: 0.4221765425063073, r2_test: 0.871543601667905, MAPE_test: 0.023049015376940717
+val_loss mean:0.0773647144775499
+val_loss std:0.04174167166253047
+
+The 49 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 2, lr: 0.001
+rmse_test: 0.7980555331099864, mse_test: 0.6368926339274646, mae_test: 0.5090774319793336, r2_test: 0.832245337032316, MAPE_test: 0.027632496476220073
+val_loss mean:0.11882375313767365
+val_loss std:0.1694267415068306
+
+The 50 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 2, lr: 0.01
+rmse_test: 0.7656317785730918, mse_test: 0.5861920203609959, mae_test: 0.4329165282956177, r2_test: 0.8455996512259802, MAPE_test: 0.02414977902317234
+val_loss mean:0.07477938905358314
+val_loss std:0.03391688982817742
+
+The 51 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8040951374742812, mse_test: 0.6465689901097832, mae_test: 0.5308948539071026, r2_test: 0.8296966282175977, MAPE_test: 0.029543855709741124
+val_loss mean:0.1287667673357107
+val_loss std:0.17449234331600127
+
+The 52 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6635241394486728, mse_test: 0.4402642836311018, mae_test: 0.3593069412907304, r2_test: 0.8840363625156076, MAPE_test: 0.019955392614469415
+val_loss mean:0.06624175817000144
+val_loss std:0.04083450312553105
+
+The 53 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8441753013941824, mse_test: 0.7126319394839588, mae_test: 0.5937160711597138, r2_test: 0.8122959436805895, MAPE_test: 0.032749083289530585
+val_loss mean:0.1268700787903003
+val_loss std:0.15603355228565455
+
+The 54 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6467365655104897, mse_test: 0.418268185168304, mae_test: 0.38654440895093567, r2_test: 0.8898300361862799, MAPE_test: 0.020937998614010564
+val_loss mean:0.07231443902028017
+val_loss std:0.039746822504070266
+
+The 55 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 5, lr: 0.001
+rmse_test: 0.8725720446710447, mse_test: 0.7613819731414075, mae_test: 0.587195803627651, r2_test: 0.7994554034855526, MAPE_test: 0.032065696316364696
+val_loss mean:0.13375465679340637
+val_loss std:0.14656755156814516
+
+The 56 experiment
+filters: 16, kernel_size1: 4, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6498837410813946, mse_test: 0.42234887692194906, mae_test: 0.3911095445753159, r2_test: 0.888755200282485, MAPE_test: 0.02156182517256967
+val_loss mean:0.0681522809626425
+val_loss std:0.037447769809991004
+
+The 57 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 2, lr: 0.001
+rmse_test: 0.9007318317131451, mse_test: 0.8113178326613175, mae_test: 0.6387508255667743, r2_test: 0.7863025220774154, MAPE_test: 0.035592935609694135
+val_loss mean:0.1356055746037586
+val_loss std:0.15405878553528993
+
+The 58 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 2, lr: 0.01
+rmse_test: 0.9125691832291333, mse_test: 0.8327825141794873, mae_test: 0.5672650536142377, r2_test: 0.780648821246265, MAPE_test: 0.03180533562853799
+val_loss mean:0.09051181851989692
+val_loss std:0.03984620151557327
+
+The 59 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 3, lr: 0.001
+rmse_test: 0.9345038662962581, mse_test: 0.8732974761226547, mae_test: 0.6581707790446242, r2_test: 0.7699773620020077, MAPE_test: 0.035980518704460236
+val_loss mean:0.1407164582827439
+val_loss std:0.16841794554443687
+
+The 60 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7055310838958846, mse_test: 0.4977741103433017, mae_test: 0.40759373706772134, r2_test: 0.8688885321223709, MAPE_test: 0.0223150106392092
+val_loss mean:0.07646117058510964
+val_loss std:0.04042916128525455
+
+The 61 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8710898841269952, mse_test: 0.7587975862283819, mae_test: 0.5608766023223202, r2_test: 0.8001361194060669, MAPE_test: 0.03131622885396445
+val_loss mean:0.10859816228704793
+val_loss std:0.15995878496110116
+
+The 62 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6745145325425869, mse_test: 0.45496985461114453, mae_test: 0.3961781045241088, r2_test: 0.8801629810819241, MAPE_test: 0.02201236648463329
+val_loss mean:0.06773558903384853
+val_loss std:0.03635697194271535
+
+The 63 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7362294597564446, mse_test: 0.5420338174132663, mae_test: 0.47356116850168983, r2_test: 0.8572307238089278, MAPE_test: 0.025756195176635778
+val_loss mean:0.11326775500091954
+val_loss std:0.15325714004976174
+
+The 64 experiment
+filters: 16, kernel_size1: 5, kernel_size2: 5, lr: 0.01
+rmse_test: 0.7138229879985927, mse_test: 0.509543258195239, mae_test: 0.4206827752082474, r2_test: 0.8657885913691805, MAPE_test: 0.022996882390934077
+val_loss mean:0.09837105953031117
+val_loss std:0.045199689961392495
+
+The 65 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 2, lr: 0.001
+rmse_test: 0.7272526505587886, mse_test: 0.5288964177447836, mae_test: 0.496292329356049, r2_test: 0.860691055953245, MAPE_test: 0.02781036298825258
+val_loss mean:0.11855306367700298
+val_loss std:0.1678742753613901
+
+The 66 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6499827224925452, mse_test: 0.42247753953882106, mae_test: 0.3770352063674536, r2_test: 0.8887213111263225, MAPE_test: 0.020532355372506732
+val_loss mean:0.0606457200591211
+val_loss std:0.03099061805932144
+
+The 67 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 3, lr: 0.001
+rmse_test: 0.6518905109629554, mse_test: 0.424961238283543, mae_test: 0.4275455995913867, r2_test: 0.8880671160176984, MAPE_test: 0.023669575560093727
+val_loss mean:0.1146686197372905
+val_loss std:0.19216129169355195
+
+The 68 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6088671217170258, mse_test: 0.37071917190797554, mae_test: 0.34811504383509567, r2_test: 0.9023542329959431, MAPE_test: 0.019195139468332508
+val_loss mean:0.05724758165223258
+val_loss std:0.02956713947810375
+
+The 69 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 4, lr: 0.001
+rmse_test: 0.71039865214415, mse_test: 0.5046662449682251, mae_test: 0.4546169336244236, r2_test: 0.8670731747771271, MAPE_test: 0.025020017284935688
+val_loss mean:0.12173327431082726
+val_loss std:0.18422578978672782
+
+The 70 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 4, lr: 0.01
+rmse_test: 0.748887292147552, mse_test: 0.560832176340093, mae_test: 0.4080127014991981, r2_test: 0.8522793203884346, MAPE_test: 0.02283682573365549
+val_loss mean:0.06585085019469261
+val_loss std:0.034644200631343824
+
+The 71 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 5, lr: 0.001
+rmse_test: 0.8183997385501757, mse_test: 0.669778132058996, mae_test: 0.5633115123703288, r2_test: 0.8235834443337615, MAPE_test: 0.031023790651443724
+val_loss mean:0.12151421361010183
+val_loss std:0.15045817433749323
+
+The 72 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 5, lr: 0.01
+rmse_test: 0.743251737336818, mse_test: 0.5524231450541984, mae_test: 0.41496262092525343, r2_test: 0.8544942215100741, MAPE_test: 0.022630203157361823
+val_loss mean:0.06666614192848404
+val_loss std:0.03612946856954951
+
+The 73 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 2, lr: 0.001
+rmse_test: 0.7056456596048861, mse_test: 0.4979357969192148, mae_test: 0.44804487780127444, r2_test: 0.8688459446035275, MAPE_test: 0.02431718560324602
+val_loss mean:0.11431191223008293
+val_loss std:0.15178386088070323
+
+The 74 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 2, lr: 0.01
+rmse_test: 0.7291022419814492, mse_test: 0.5315900792623758, mae_test: 0.43720773075630154, r2_test: 0.8599815575920438, MAPE_test: 0.024073052822575255
+val_loss mean:0.08173898744739984
+val_loss std:0.04120719700729601
+
+The 75 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8847803171038023, mse_test: 0.782836209534305, mae_test: 0.6082190245152332, r2_test: 0.7938044538535469, MAPE_test: 0.0333184763405274
+val_loss mean:0.14564716570624492
+val_loss std:0.20588770486008937
+
+The 76 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7307919095605651, mse_test: 0.534056815079177, mae_test: 0.3946675471187247, r2_test: 0.859331830442546, MAPE_test: 0.02142296075008103
+val_loss mean:0.08971674693748355
+val_loss std:0.04808259595415243
+
+The 77 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 4, lr: 0.001
+rmse_test: 0.83322484941338, mse_test: 0.6942636496799498, mae_test: 0.5330214418999382, r2_test: 0.8171340688232258, MAPE_test: 0.02879269468492213
+val_loss mean:0.1305765444983025
+val_loss std:0.18438222772754806
+
+The 78 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6653880517198892, mse_test: 0.44274125937159003, mae_test: 0.41020137237080934, r2_test: 0.8833839382161424, MAPE_test: 0.02259576881730433
+val_loss mean:0.07488525789231062
+val_loss std:0.041159102527847664
+
+The 79 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 5, lr: 0.001
+rmse_test: 1.0714328623301386, mse_test: 1.1479683784809538, mae_test: 0.7652549245467177, r2_test: 0.6976302783687657, MAPE_test: 0.041697221297254644
+val_loss mean:0.1531565825854029
+val_loss std:0.18334605222901915
+
+The 80 experiment
+filters: 32, kernel_size1: 3, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6511906396200301, mse_test: 0.424049249128744, mae_test: 0.3968872273069833, r2_test: 0.8883073298703066, MAPE_test: 0.022362692855475954
+val_loss mean:0.07970784031427823
+val_loss std:0.06009074438887417
+
+The 81 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8294780140747022, mse_test: 0.6880337758333118, mae_test: 0.5507645664377554, r2_test: 0.8187749896500679, MAPE_test: 0.02927674267897084
+val_loss mean:0.10955650630806174
+val_loss std:0.16951424740335275
+
+The 82 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 2, lr: 0.01
+rmse_test: 0.7589036255695882, mse_test: 0.5759347129026658, mae_test: 0.43877131498164584, r2_test: 0.8483013800009185, MAPE_test: 0.024511497831786643
+val_loss mean:0.08145847730338573
+val_loss std:0.039338089628654614
+
+The 83 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 3, lr: 0.001
+rmse_test: 0.9179411973500982, mse_test: 0.8426160417925319, mae_test: 0.6224931130222405, r2_test: 0.7780587141816925, MAPE_test: 0.03373375732995022
+val_loss mean:0.1471581111351649
+val_loss std:0.19400406154876418
+
+The 84 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7728869934904811, mse_test: 0.5973543047067549, mae_test: 0.4421067879853906, r2_test: 0.8426595555982053, MAPE_test: 0.024073138451441444
+val_loss mean:0.07749241295581062
+val_loss std:0.045436522047972085
+
+The 85 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 4, lr: 0.001
+rmse_test: 0.7471078014719411, mse_test: 0.5581700670202374, mae_test: 0.4813929422823697, r2_test: 0.8529805080422808, MAPE_test: 0.026092805213249134
+val_loss mean:0.1037080919103963
+val_loss std:0.1500776540335297
+
+The 86 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6640220878553353, mse_test: 0.44092533315975874, mae_test: 0.38917379243451045, r2_test: 0.8838622450349249, MAPE_test: 0.021465808974083664
+val_loss mean:0.06605506408959627
+val_loss std:0.03555243123110569
+
+The 87 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 5, lr: 0.001
+rmse_test: 0.925175418508811, mse_test: 0.8559495550129536, mae_test: 0.597218537793655, r2_test: 0.7745467266074701, MAPE_test: 0.03217039541284626
+val_loss mean:0.13562460711189345
+val_loss std:0.1925685673324241
+
+The 88 experiment
+filters: 32, kernel_size1: 4, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6686234454197308, mse_test: 0.4470573117649517, mae_test: 0.3836057190123368, r2_test: 0.8822471093755662, MAPE_test: 0.021113300073171463
+val_loss mean:0.08558627436387128
+val_loss std:0.10331031241504576
+
+The 89 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 2, lr: 0.001
+rmse_test: 0.6822296476162082, mse_test: 0.46543729208653567, mae_test: 0.4505318730108986, r2_test: 0.877405905003039, MAPE_test: 0.024573084534635702
+val_loss mean:0.10958510705580314
+val_loss std:0.1476683762136181
+
+The 90 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 2, lr: 0.01
+rmse_test: 0.8762565214644674, mse_test: 0.7678254914090087, mae_test: 0.5495922652249442, r2_test: 0.7977582096765399, MAPE_test: 0.030482782854919527
+val_loss mean:0.08373798671014168
+val_loss std:0.03223079712620107
+
+The 91 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8103580240716896, mse_test: 0.6566801271773729, mae_test: 0.5350660677102396, r2_test: 0.8270334000679269, MAPE_test: 0.029085362767408605
+val_loss mean:0.12073685299113111
+val_loss std:0.13737435930950403
+
+The 92 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 3, lr: 0.01
+rmse_test: 0.8311168961309671, mse_test: 0.6907552950343727, mae_test: 0.4538857071598709, r2_test: 0.8180581536999978, MAPE_test: 0.02533756203619701
+val_loss mean:0.09717595878128822
+val_loss std:0.09349741554407663
+
+The 93 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 4, lr: 0.001
+rmse_test: 1.7022796320363034, mse_test: 2.8977559456456525, mae_test: 1.3000279111131088, r2_test: 0.23674408192362306, MAPE_test: 0.07081775758139525
+val_loss mean:0.2035163144270579
+val_loss std:0.21637994497013677
+
+The 94 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 4, lr: 0.01
+rmse_test: 0.787480335109344, mse_test: 0.6201252781839248, mae_test: 0.4469352657181644, r2_test: 0.836661783324482, MAPE_test: 0.024234405509511576
+val_loss mean:0.07916050707852398
+val_loss std:0.04944889235987777
+
+The 95 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 5, lr: 0.001
+rmse_test: 2.07310090554804, mse_test: 4.297747364584104, mae_test: 1.4862290690550408, r2_test: -0.1320073781041231, MAPE_test: 0.07944448338309211
+val_loss mean:0.2375414917866389
+val_loss std:0.26129491486106166
+
+The 96 experiment
+filters: 32, kernel_size1: 5, kernel_size2: 5, lr: 0.01
+rmse_test: 0.8349371467710881, mse_test: 0.6971200390582456, mae_test: 0.48116222325703556, r2_test: 0.8163817086734378, MAPE_test: 0.02608655375030933
+val_loss mean:0.08914319092505857
+val_loss std:0.05789217855182993
+
+The 97 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8404021800841652, mse_test: 0.7062758242902176, mae_test: 0.5730124477016053, r2_test: 0.8139701159119979, MAPE_test: 0.03112461224314495
+val_loss mean:0.13531771883731936
+val_loss std:0.21150267809254597
+
+The 98 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6354445515757775, mse_test: 0.40378977812734096, mae_test: 0.3630472280707026, r2_test: 0.8936435836573632, MAPE_test: 0.020021347660748832
+val_loss mean:0.059310375446719785
+val_loss std:0.030635623814153492
+
+The 99 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 3, lr: 0.001
+rmse_test: 0.7443061600441183, mse_test: 0.5539916598796206, mae_test: 0.49381608895426915, r2_test: 0.8540810817406975, MAPE_test: 0.027109264043055106
+val_loss mean:0.1182365215250424
+val_loss std:0.17585157867214266
+
+The 100 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6630227289872224, mse_test: 0.4395991391536638, mae_test: 0.36956978170469634, r2_test: 0.8842115585874312, MAPE_test: 0.020182410429667105
+val_loss mean:0.05649900763775363
+val_loss std:0.03141938404580597
+
+The 101 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 4, lr: 0.001
+rmse_test: 0.8886833153027378, mse_test: 0.7897580348974653, mae_test: 0.5889018989965904, r2_test: 0.7919812761010305, MAPE_test: 0.03262331461844946
+val_loss mean:0.129236011137796
+val_loss std:0.17552531440669403
+
+The 102 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 4, lr: 0.01
+rmse_test: 0.7323920219555585, mse_test: 0.5363980738241514, mae_test: 0.4020992098130806, r2_test: 0.8587151533909347, MAPE_test: 0.02182617327263951
+val_loss mean:0.07794529930330239
+val_loss std:0.08654998440231032
+
+The 103 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7288033942328445, mse_test: 0.5311543874453148, mae_test: 0.4916336906277139, r2_test: 0.8600963168623436, MAPE_test: 0.027080379950364254
+val_loss mean:0.12374981194734573
+val_loss std:0.18179058428233782
+
+The 104 experiment
+filters: 64, kernel_size1: 2, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6143271882079473, mse_test: 0.37739789417148273, mae_test: 0.32771000488125285, r2_test: 0.9005950875094261, MAPE_test: 0.018535733386989592
+val_loss mean:0.05615422081734453
+val_loss std:0.029092902025571802
+
+The 105 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8152510229182721, mse_test: 0.664634230369289, mae_test: 0.5131310998049059, r2_test: 0.824938324965642, MAPE_test: 0.027958615324207948
+val_loss mean:0.12539860360663047
+val_loss std:0.163928756108139
+
+The 106 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6130594300232409, mse_test: 0.37584186474042103, mae_test: 0.36667933646986794, r2_test: 0.901004938681932, MAPE_test: 0.02041543202894789
+val_loss mean:0.07030216568992251
+val_loss std:0.040627889192329326
+
+The 107 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8958371257533773, mse_test: 0.8025241558780724, mae_test: 0.6116477489049025, r2_test: 0.7886187370977135, MAPE_test: 0.03340679521499529
+val_loss mean:0.14292282089591027
+val_loss std:0.18192356534174195
+
+The 108 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 3, lr: 0.01
+rmse_test: 0.678261823356936, mse_test: 0.46003910102347545, mae_test: 0.3958430752729841, r2_test: 0.8788277643152351, MAPE_test: 0.021703107730055238
+val_loss mean:0.07134745642542839
+val_loss std:0.038730560353789405
+
+The 109 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 4, lr: 0.001
+rmse_test: 0.7455824316326741, mse_test: 0.5558931623592912, mae_test: 0.5024455945536469, r2_test: 0.853580234516822, MAPE_test: 0.02735247602840321
+val_loss mean:0.12411234840484602
+val_loss std:0.1944825888034559
+
+The 110 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6990992410204253, mse_test: 0.48873974879533466, mae_test: 0.3868276974939609, r2_test: 0.8712681424300952, MAPE_test: 0.021357461396084333
+val_loss mean:0.06631275951862335
+val_loss std:0.03813076145280683
+
+The 111 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7376060626185995, mse_test: 0.5440627036117134, mae_test: 0.47118607907400833, r2_test: 0.8566963242849115, MAPE_test: 0.025409609282151514
+val_loss mean:0.11118602350590721
+val_loss std:0.15795176989607498
+
+The 112 experiment
+filters: 64, kernel_size1: 3, kernel_size2: 5, lr: 0.01
+rmse_test: 0.7028306211599523, mse_test: 0.4939708820400845, mae_test: 0.38773815380531845, r2_test: 0.8698902853978971, MAPE_test: 0.02153861394518199
+val_loss mean:0.06691445566473468
+val_loss std:0.03780563077864422
+
+The 113 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 2, lr: 0.001
+rmse_test: 1.2864283793977274, mse_test: 1.6548979753198634, mae_test: 0.9370572429702472, r2_test: 0.5641072964155149, MAPE_test: 0.050820595555575325
+val_loss mean:0.1909182452197586
+val_loss std:0.2294276629249677
+
+The 114 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6711443164075377, mse_test: 0.45043469344614107, mae_test: 0.3954967714923814, r2_test: 0.8813575221901291, MAPE_test: 0.021881054505995718
+val_loss mean:0.07209138714131855
+val_loss std:0.03336536234161273
+
+The 115 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 3, lr: 0.001
+rmse_test: 0.7623650358732261, mse_test: 0.5812004479219853, mae_test: 0.47272264183603335, r2_test: 0.8469144090165066, MAPE_test: 0.025828678178847375
+val_loss mean:0.12376241491369482
+val_loss std:0.15809093824382023
+
+The 116 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6535187201093217, mse_test: 0.42708671753332594, mae_test: 0.3816340834765458, r2_test: 0.8875072743172325, MAPE_test: 0.020890083577625382
+val_loss mean:0.06829449867031404
+val_loss std:0.03472234811789222
+
+The 117 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 4, lr: 0.001
+rmse_test: 1.943379413016982, mse_test: 3.776723542938229, mae_test: 1.5321004429155962, r2_test: 0.005227959443041441, MAPE_test: 0.08356808699069282
+val_loss mean:0.2711885617329524
+val_loss std:0.2953156766316462
+
+The 118 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6864852733281535, mse_test: 0.4712620304964295, mae_test: 0.39749276295390606, r2_test: 0.8758716950329831, MAPE_test: 0.021590507741080265
+val_loss mean:0.07336714766595674
+val_loss std:0.03932760872009468
+
+The 119 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 5, lr: 0.001
+rmse_test: 0.7594701681016098, mse_test: 0.5767949362362875, mae_test: 0.48945531848991947, r2_test: 0.8480748010334107, MAPE_test: 0.026825128085567716
+val_loss mean:0.11745534808589862
+val_loss std:0.1579558093439613
+
+The 120 experiment
+filters: 64, kernel_size1: 4, kernel_size2: 5, lr: 0.01
+rmse_test: 0.6849495279725912, mse_test: 0.4691558558698755, mae_test: 0.41174300076486303, r2_test: 0.8764264519822822, MAPE_test: 0.022465900277010373
+val_loss mean:0.13500992496582595
+val_loss std:0.31461366995730616
+
+The 121 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 2, lr: 0.001
+rmse_test: 0.8615589105635226, mse_test: 0.742283756371404, mae_test: 0.5685501842271328, r2_test: 0.8044857881169135, MAPE_test: 0.03122423363853001
+val_loss mean:0.12692712022302052
+val_loss std:0.13970173791566118
+
+The 122 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 2, lr: 0.01
+rmse_test: 0.6566639737245157, mse_test: 0.4312075743876715, mae_test: 0.3931913339722095, r2_test: 0.8864218591060753, MAPE_test: 0.021637974038702875
+val_loss mean:0.08134021020183961
+val_loss std:0.05256030437515979
+
+The 123 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 3, lr: 0.001
+rmse_test: 0.8349547863305883, mse_test: 0.6971494952163584, mae_test: 0.5620922873852809, r2_test: 0.8163739500535178, MAPE_test: 0.030629824300354814
+val_loss mean:0.12757924124598502
+val_loss std:0.14962474239635654
+
+The 124 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 3, lr: 0.01
+rmse_test: 0.7623658983093465, mse_test: 0.5812017629050169, mae_test: 0.4424774974972466, r2_test: 0.8469140626558745, MAPE_test: 0.024608578668146665
+val_loss mean:0.07222113308186333
+val_loss std:0.03758222304025543
+
+The 125 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 4, lr: 0.001
+rmse_test: 1.9281445693900072, mse_test: 3.7177414804681765, mae_test: 1.4452296110604852, r2_test: 0.020763570131120845, MAPE_test: 0.07791368853259177
+val_loss mean:0.23959519763787587
+val_loss std:0.26555912695416894
+
+The 126 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 4, lr: 0.01
+rmse_test: 0.6608634237205507, mse_test: 0.43674046481164824, mae_test: 0.38129799639752204, r2_test: 0.8849645205864136, MAPE_test: 0.02090571371006416
+val_loss mean:0.08078675080210931
+val_loss std:0.06608863725492725
+
+The 127 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 5, lr: 0.001
+rmse_test: 0.8050880655217747, mse_test: 0.6481667932455933, mae_test: 0.5077093519441517, r2_test: 0.8292757740386387, MAPE_test: 0.027947247247078956
+val_loss mean:0.11645558605139905
+val_loss std:0.1208687109185973
+
+The 128 experiment
+filters: 64, kernel_size1: 5, kernel_size2: 5, lr: 0.01
+rmse_test: 0.7142548562345518, mse_test: 0.5101599996546402, mae_test: 0.4766036961180185, r2_test: 0.865626144435194, MAPE_test: 0.026547922239808945
+val_loss mean:0.08690968057826946
+val_loss std:0.041423286602392625
+
+rmse_test_smallest: 68, mse_test_smallest:68, mae_test_smallest: 104, r2_test_largest:68, MAPE_test_smallest: 104
+
+The 68 experiment
+filters: 32, kernel_size1: 2, kernel_size2: 3, lr: 0.01
+rmse_test: 0.6088671217170258, mse_test: 0.37071917190797554, mae_test: 0.34811504383509567, r2_test: 0.9023542329959431, MAPE_test: 0.019195139468332508
+val_loss mean:0.05724758165223258
+val_loss std:0.02956713947810375

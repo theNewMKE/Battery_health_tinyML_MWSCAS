@@ -1,0 +1,6 @@
+Seq-> Test, Val, Train
+Error means:
+[1.901 6.529 2.489 1.    0.068]
+Error stds:
+[0.47  3.241 0.579 0.    0.009]
+{'filters1': 32, 'kernel_size1': 4, 'units': 64, 'loss': 'Huber', 'lr': 0.001, 'delta': 0.1}
